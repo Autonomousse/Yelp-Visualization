@@ -35,4 +35,10 @@ Originally we were going to allow the user to choose any city in the U.S. and se
 * [Bootstrap](https://getbootstrap.com/)
 
 ## Screenshots:
+![home](images/home.png)
 
+
+![map](images/map.png)
+
+
+![data](images/data.png)
