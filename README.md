@@ -1,4 +1,4 @@
-# Project 2
+# Yelp Visualization Project
 
 ## Topic: 
 Building an interface that allows users to see the restaurants of their choosing, by type of food, using Yelp API, Bootstrap, HTML, CSS, JS, Chart.js library, MongoDB, Python-Flask, Leaflet, and Mapbox.
