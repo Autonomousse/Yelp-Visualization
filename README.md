@@ -3,7 +3,7 @@
 ## Topic: 
 Building an interface that allows users to see the restaurants of their choosing, by type of food, using Yelp API, Bootstrap, HTML, CSS, JS, Chart.js library, MongoDB, Python-Flask, Leaflet, and Mapbox.
 
-## Articulation :pizza: vs. :taco:
+## Articulation :pizza: vs. :taco::
 
 We remembered the original question posed to us at the beginning of this bootcamp and thought to expand on it. Are Italian or Mexican restaurants more popular in the U.S.? We came up with using the Yelp dataset to create a more analytic version of Yelp’s GUI that limits what is shown to Las Vegas, Nevada. We chose Las Vegas since the Yelp Data only has a few clusters of cities available in the US and we thought what better than a city known for lots of tourism.
 
